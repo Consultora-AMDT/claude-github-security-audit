@@ -131,7 +131,7 @@ This skill draws heavily on the public security frameworks from [Trail of Bits](
 - `sharp-edges` — the "rationalizations to reject" list pattern
 - `agentic-actions-auditor` — the MCP/plugin attack surface checklist
 
-Built and maintained by [AMDT (Aún Más Difícil Todavía)](https://aunmasdificiltodavia.es/) — a digital marketing and SEO consultancy that uses Claude skills heavily for agency-level work.
+Built and maintained by [AMDT](https://evenmoredifficult.com/) — a digital marketing and SEO/AIO consultancy that uses Claude skills heavily for agency-level work.
 
 ### License
 
@@ -247,7 +247,7 @@ Este skill toma prestado de los frameworks públicos de seguridad de [Trail of B
 - `sharp-edges` — el patrón de "racionalizaciones a rechazar"
 - `agentic-actions-auditor` — el checklist de superficie de ataque para MCPs/plugins
 
-Construido y mantenido por [AMDT (Aún Más Difícil Todavía)](https://aunmasdificiltodavia.es/) — consultoría de marketing digital y SEO que usa skills de Claude intensivamente para trabajo de agencia.
+Construido y mantenido por [AMDT)](https://aunmasdificiltodavia.es/) — consultoría de marketing digital y SEO/AIO que usa skills de Claude intensivamente para trabajo de agencia.
 
 ### Licencia
 
